@@ -33,5 +33,5 @@
 
 
 
-[![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/github/license/ageron/handson-ml)
+[![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
 
