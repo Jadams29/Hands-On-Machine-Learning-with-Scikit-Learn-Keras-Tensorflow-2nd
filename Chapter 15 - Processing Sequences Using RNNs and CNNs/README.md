@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 15 - Processing Sequences Using RNNs and CNNs
 
 
 

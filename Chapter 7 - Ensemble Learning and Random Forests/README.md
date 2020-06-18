@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 7 - Ensemble Learning and Random Forests
 
 
 

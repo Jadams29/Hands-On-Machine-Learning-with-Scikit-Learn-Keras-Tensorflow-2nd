@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 12 - Custom Models and Training with Tensorflow
 
 
 

@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 17 - Representation Learning and Generative Learning Using Autoencoders and GANs
 
 
 

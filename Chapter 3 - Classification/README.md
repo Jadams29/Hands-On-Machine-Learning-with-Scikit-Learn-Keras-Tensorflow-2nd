@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 3 - Classification
 
 
 

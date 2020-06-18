@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 14 - Deep Computer Vision Using Convolutional Neural Networks
 
 
 

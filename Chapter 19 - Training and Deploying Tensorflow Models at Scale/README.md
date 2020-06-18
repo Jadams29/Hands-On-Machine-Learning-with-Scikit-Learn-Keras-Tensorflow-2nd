@@ -1,4 +1,4 @@
-### Chapter 1 - The Machine Learning Landscape
+### Chapter 19 - Training and Deploying Tensorflow Models at Scale
 
 
 
