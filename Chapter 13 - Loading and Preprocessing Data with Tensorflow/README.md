@@ -8,11 +8,11 @@
 &nbsp;
 
 &nbsp;
-[Aurélien Géron Github](https://github.com/ageron/handson-ml)
+[Aurélien Géron Github](https://github.com/ageron/handson-ml2)
 &nbsp; 
 
 
 
 &nbsp;
-[![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
+[![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml2)
 &nbsp; 
