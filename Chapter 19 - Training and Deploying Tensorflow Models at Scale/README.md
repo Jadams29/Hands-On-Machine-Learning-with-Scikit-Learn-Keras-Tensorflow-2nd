@@ -8,7 +8,7 @@
 &nbsp;
 
 &nbsp;
-[Aurélien Géron Github](https://github.com/ageron/handson-ml)
+[Aurélien Géron Github](https://github.com/ageron/handson-ml2)
 &nbsp; 
 
 
