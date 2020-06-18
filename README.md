@@ -26,22 +26,12 @@
  ### Chapter 18 - Reinforcement Learning
  ### Chapter 19 - Training and Deploying Tensorflow Models at Scale
  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
  (direct links I have no affiliation)
 - [Purchase from Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - [Purchase from O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 [Aurélien Géron Github](https://github.com/ageron/handson-ml)
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 [![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
-&nbsp;
-&nbsp;
+&nbsp; &nbsp; &nbsp;
