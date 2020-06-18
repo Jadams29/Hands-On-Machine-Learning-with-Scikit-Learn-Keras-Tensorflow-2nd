@@ -29,3 +29,9 @@
  (direct links I have no affiliation)
 - [Purchase from Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - [Purchase from O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+
+
+[![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/github/license/ageron/handson-ml)
+
