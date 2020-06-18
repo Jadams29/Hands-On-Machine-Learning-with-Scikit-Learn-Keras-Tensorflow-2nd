@@ -34,4 +34,6 @@
 [Aurélien Géron Github](https://github.com/ageron/handson-ml)
 &nbsp; &nbsp; &nbsp; &nbsp;
 [![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
-&nbsp; &nbsp; &nbsp;
+&nbsp; 
+
+&nbsp; &nbsp;
