@@ -1,4 +1,5 @@
-# Hands-On Maching Learning with Scikit-Learn, Keras & Tensorflow, 2nd
+
+<pre># Hands-On Maching Learning with Scikit-Learn, Keras & Tensorflow, 2nd
  Working through the book 'Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow by [Aurélien Géron](https://github.com/ageron/handson-ml)
  
  # Part I - The Fundamentals of Machine Learning
@@ -46,3 +47,4 @@
 
 [![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
 
+</pre>
