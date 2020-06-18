@@ -30,6 +30,7 @@
 
 &nbsp;
 
+
 &nbsp;
  (direct links I have no affiliation)
 - [Purchase from Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
@@ -37,9 +38,12 @@
 &nbsp; 
 
 
+
 &nbsp;
 [Aurélien Géron Github](https://github.com/ageron/handson-ml)
 &nbsp; 
+
+
 
 &nbsp;
 [![Licensed under the APACHE 2.0 License](https://img.shields.io/github/license/ageron/handson-ml)](https://img.shields.io/github/license/ageron/handson-ml)
