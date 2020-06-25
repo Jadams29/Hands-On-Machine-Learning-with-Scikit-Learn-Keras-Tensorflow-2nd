@@ -4,9 +4,9 @@
  Working through the book 'Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow by [Aurélien Géron](https://github.com/ageron/handson-ml2)
  Almost every file is from [Aurélien Géron](https://github.com/ageron/handson-ml2) . I will be working through the examples and adding either notes or more information if needed.
  
- # Part I - The Fundamentals of Machine Learning
+ ## Part I - The Fundamentals of Machine Learning
  
- * - [x] ### [Chapter 1 - The Machine Learning Landscape](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape)
+ - [x] [Chapter 1 - The Machine Learning Landscape](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape)
  * ### [Chapter 2 - End-to-End Machine Learning Project](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%202%20-%20End-to-End%20Machine%20Learning%20Project)
  * ### [Chapter 3 - Classification](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%203%20-%20Classification)
  * ### [Chapter 4 - Training Models](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%204%20-%20Training%20Models)
@@ -16,7 +16,7 @@
  * ### [Chapter 8 - Dimensionality Reduction](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%208%20-%20Dimensionality%20Reduction)
  * ### [Chapter 9 - Unsupervised Learning Techniques](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%209%20-%20Unsupervised%20Learning%20Techniques)
  
- # Part II - Neural Networks and Deep Learning
+ ## Part II - Neural Networks and Deep Learning
  
  * ### [Chapter 10 - Introduction to Artificial Neural Networks with Keras](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%2010%20-%20Introduction%20to%20Artificial%20Neural%20Networks%20with%20Keras)
  * ### [Chapter 11 - Training Deep Neural Networks](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%2011%20-%20Training%20Deep%20Neural%20Networks)
