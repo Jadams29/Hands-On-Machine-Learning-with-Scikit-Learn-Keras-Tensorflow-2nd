@@ -6,7 +6,7 @@
  
  # Part I - The Fundamentals of Machine Learning
  
- * ### [Chapter 1 - The Machine Learning Landscape](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape)
+ * ### [x] [Chapter 1 - The Machine Learning Landscape](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape)
  * ### [Chapter 2 - End-to-End Machine Learning Project](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%202%20-%20End-to-End%20Machine%20Learning%20Project)
  * ### [Chapter 3 - Classification](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%203%20-%20Classification)
  * ### [Chapter 4 - Training Models](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%204%20-%20Training%20Models)
